@@ -53,6 +53,7 @@ function draw() {
   bob3.display();
   bob4.display
   bob5.display();
+}
 
   function keyPressed() { 
 	if (keyCode === UP_ARROW) {
